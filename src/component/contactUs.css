@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+.App {
+  text-align: center;
+  height: 100vh;
+  background: transparent
+  linear-gradient(201deg, #263138 0%, #29343F 54%, #1A1C1F 100%) 0% 0% no-repeat padding-box;
+  opacity: 1;
+  top: 0px;
+  left: 0px;
+  width: 1846px;
+  }
+.form{
+  width: 788px;
+  height: 709px;
+  margin-top: 90px;
+  }
+.div1{
+  width:536px;
+  height: 102px;
+}
+.contact{
+  width: 350px;
+  height:100%;
+  text-align: left;
+  line-height: 1.2;
+  margin-left: 10px;
+}
+.title{
+   
+  font-weight:550;
+  letter-spacing: 102;
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 85px;
+    }
+    .us{
+  color: #FFB281;
+  font-weight:550;
+  letter-spacing: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 85px;
+  line-height: 1.2;
+    }
+.div2{
+  width: 577px;
+  height: 24px;
+  margin-top: 6.16px;
+  margin-left: 40px;
+}
+.text{
+    
+  color: white;
+  font-size: 20px;
+  letter-spacing: 1.5px;
+}
+.formtext{
+  font-size:17;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  text-align: left;
+  }
+.div3_1_1{
+  margin-top: 50px;
+  margin-left: 70px;
+  width: 90px;
+  height: 24px;
+}
+
+.div4{
+  width:35px ;
+  height:24px ;
+  margin-top:30px ;
+}
+input{
+  background: #4C565D 0% 0% no-repeat padding-box;
+border: 1px solid #FFFFFF;
+border-radius: 18px;
+opacity: 1;
+height: 54px;
+margin-left: 40px;
+
+}
+input[type=text]{
+  width: 339px;
+  margin-right: 30px;
+}
+input[type=email]{
+  width:748px;
+}
+.div7{
+  width: 748px;
+  height: 118px;
+  margin-left: 40px;
+  background: #4C565D 0% 0% no-repeat padding-box;
+border: 1px solid #FFFFFF;
+border-radius: 18px;
+opacity: 1;
+}
+.button{
+  width: 277px;
+  height: 63px;
+  margin-top: 50px;
+  background: #8668F2 0% 0% no-repeat padding-box;
+border-radius: 20px;
+opacity: 1;
+}
+.form2{
+  width: 674px;
+  height: 785px;
+  background-color: green;
+  margin-top: 90px;
+  background: #4C565D 0% 0% no-repeat padding-box;
+  border: 7px solid #8668F2;
+border-radius: 40px;
+opacity: 1;
+filter: blur(0px);
+}
+.form2txt{
+  text-align: left;
+font: normal normal bold 29px/86px Helvetica Neue;
+word-wrap: normal;
+color: #FFFFFF;
+opacity: 1;
+}
+.text2{
+width: 491px;
+height: 34px;
+margin-left: 160px;
+margin-bottom: 30px;
+}
+.discord{
+  width: 566px;
+  height: 214px;
+  margin-left: 54px;
+  margin-bottom: 20px;
+  background: #4C565D 0% 0% no-repeat padding-box;
+  border: 7px solid #8668F2;
+border-radius: 40px;
+opacity: 1;
+filter: blur(0px);
+}
+.logos{
+  width: 194px;
+  height: 200px;
+  
+}
+
+.title2{
+  width: 321px;
+  height: 60px;
+  margin-top: 25.5px;
+  line-height: 1;
+  margin-bottom: 10px;
+}
+
+.texts{
+  width: 372px;
+  height:200px;
+}
+.social{
+  height: 97px;
+}
+.dislogo{
+  /* background-image: ; */
+}
+.telelogo{
+  /* background-image: ; */
+ }
+.linkedin{
+  /* background-image: ; */
+
+}
+.twitter{
+  /* background-image: ; */
+
+}
+.github{
+  /* background-image: ; */
+
+}
+.insta{
+  /* background-image: ; */
+
+}
